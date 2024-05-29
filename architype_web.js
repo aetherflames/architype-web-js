@@ -2,6 +2,6 @@
 
 
 //INSERT GSAP ANIMATIONS AND OTHER JAVASCRIPT FUNCATIONLIES HERE. Replace any code as needed.
-gsap.from(".typography-heading-xxlarge", {opacity: 0, duration: 1});
+gsap.from(".team-portrait", {opacity: 0, duration: 1});
 
 //console.log("This is a test log.");
